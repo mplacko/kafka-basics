@@ -1,0 +1,4 @@
+eu\placko\examples\kafka\basics\SimpleListOfAllTopics.class
+eu\placko\examples\kafka\basics\SimpleProducer.class
+eu\placko\examples\kafka\basics\SimpleConsumer.class
+eu\placko\examples\kafka\basics\Configuration.class
